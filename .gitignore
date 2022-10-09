@@ -1,2 +1,5 @@
 #env files
 env/
+
+#untrack DB file
+*.sqlite3
